@@ -17,5 +17,7 @@ namespace SolutionName.Web.ViewModels
         public string MessageToClient { get; set; }
 
         public ObjectState ObjectState { get; set; }
+
+        //fixed something
     }
 }
